@@ -1,0 +1,28 @@
+{
+  "name": "griddy",
+  "version": "1.0.0",
+  "description": "A very lightweight grid system based on CSS Grid that don't require 100s of column classes etc",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sassyelements/griddy.git"
+  },
+  "author": "https://github.com/0xkhan",
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/sassyelements/griddy/blob/master/LICENSE"
+    }
+  ],
+  "bugs": {
+    "url": "https://github.com/sassyelements/griddy/issues"
+  },
+  "homepage": "https://github.com/sassyelements/griddy#readme",
+  "devDependencies": {
+    "@parcel/transformer-sass": "^2.2.1",
+    "parcel": "^2.2.1"
+  }
+}
